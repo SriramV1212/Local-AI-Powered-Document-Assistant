@@ -64,7 +64,10 @@ This project is currently under development. I’m actively working on integrati
 
 ## 🤝 **Contributing**
 
-If you’re interested in contributing or have suggestions, feel free to open an issue or submit a pull request. Let’s build something amazing together!
+If you’re interested in contributing or have suggestions, feel free to reach out or submit a pull request. Let’s build something amazing together!
+
+- Email: sriram.vivek@stonybrook.edu
+- LinkedIn: https://www.linkedin.com/in/sriram-vivek-58a673269/
 
 ---
 
