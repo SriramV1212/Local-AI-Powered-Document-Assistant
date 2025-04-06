@@ -116,5 +116,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 <p align="center">
   <em>⚡ Bringing powerful document analysis to your local machine ⚡</em>
 </p>
-```
 
