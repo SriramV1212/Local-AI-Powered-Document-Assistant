@@ -60,7 +60,6 @@ Welcome to the **Local AI-Powered Document Assistant** - a privacy-focused PDF a
 3. Ask questions about the document content in natural language
 4. Receive accurate, context-based answers from the local AI
 
-![Demo](https://via.placeholder.com/800x400?text=Document+Q%26A+Assistant+Demo)
 
 ---
 
