@@ -1,5 +1,3 @@
-Here’s a **README.md** template for your project, explaining its purpose and mentioning that it’s still in progress:
-
 ---
 
 # Local AI-Powered Document Assistant
