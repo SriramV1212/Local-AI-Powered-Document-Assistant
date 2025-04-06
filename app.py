@@ -1,5 +1,5 @@
 import streamlit as st
-import pymupdf
+import fitz
 import os
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
@@ -16,7 +16,7 @@ if "messages" not in st.session_state:
 
 def process_pdf_and_create_vector_store(pdf_path):
     
-    doc = pymupdf.open(pdf_path)
+    doc = fitz.open(pdf_path)
     text = ""
     for num in range(len(doc)):
         page = doc.load_page(num)
